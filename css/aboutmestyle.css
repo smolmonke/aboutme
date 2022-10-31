@@ -1,0 +1,47 @@
+.headtext{
+  color: black;
+  font-size: 60px;
+  text-align: left;
+  font-family: 'Marck Script', cursive;
+  border-bottom: solid;
+  border-right-width: thin;
+  text-shadow: 2px 2px 5px #FF69B4;
+}
+
+.maincontainer{
+  padding: 4em 2em 2em 48em;
+
+}
+
+.para1{
+  font-family: 'Cookie', cursive;
+  font-size: 35px;
+
+}
+
+body{
+  background-image: url("file:///F:/HTML/Project 0/imgs/bgg.jpg");
+  background-repeat: no-repeat;background-size: cover;
+}
+
+.pic{
+  box-shadow: 200px;
+  position: absolute;
+
+  top: 135px;
+  left: 105px;
+  width: 200px;
+  height: 100px;
+}
+
+.butterfly{
+  position: absolute;
+  top: 40px;
+  left: 500px;
+}
+
+.daisy{
+  position: absolute;
+  top: 100px;
+  right: 100px;
+}
